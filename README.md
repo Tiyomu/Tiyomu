@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-    }
-
-    h1 {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-
-    h2 {
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-  </style>
 </head>
 <body>
   <h1>Hi there! I'm Uttiyo</h1>
@@ -59,9 +26,9 @@
   <h3>My GitHub Projects</h3>
 
   <ul>
-    <li><a href="#">Project Name 1</a>: A SaaS application for streamlining project management processes by integrating task tracking, collaboration tools, and analytics.</li>
-    <li><a href="#">Project Name 2</a>: An AI-powered video editing platform that leverages computer vision and deep learning algorithms to automate video editing tasks and enhance post-production workflows.</li>
-    <li><a href="#">Project Name 3</a>: A web-based application that utilizes natural language processing (NLP) to automate customer support and enhance the user experience through intelligent chatbots.</li>
+    <li><a href="#">A/B Testing Management 1</a>: A SaaS application for streamlining A/B Testing projects including change recomendations, automatic data capturing and result interpretation.</li>
+    <li><a href="#">Google Earth Video secondary export</a>: An AI-powered video editing platform that leverages computer vision and deep learning algorithms to automate video editing tasks and enhance post-production workflows for animated map tracking stories.</li>
+    <li><a href="#">Real Time voice translation API</a>: A backend API that can be called to translate voice inputs to other Indian languages and return an Output as voice again</li>
   </ul>
 
   <h3>Let's Connect</h3>
